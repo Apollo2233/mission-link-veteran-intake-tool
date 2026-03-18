@@ -1,8 +1,9 @@
 # Mission Link – Veteran Claim Intake System
+## Project Overview
 
-Mission Link is a prototype case management and intake workflow platform designed to help organizations supporting veterans organize, track, and prepare VA disability claims.
+Mission Link is a prototype case management and intake workflow platform designed to help organizations supporting veterans organize and track VA disability claim preparation.
 
-The system focuses on structuring the intake process by capturing key service information, monitoring claim readiness, and organizing supporting documentation required for claim development.
+The system demonstrates how structured workflows, case tracking, and documentation management can improve operational efficiency for teams assisting veterans.
 
 ---
 
@@ -27,7 +28,19 @@ Mission Link explores how structured workflows and operational systems could sim
 - Service connection mapping  
 - Evidence tracking and documentation workflows  
 - Operational case management
+## Workflow Concept
 
+Mission Link models a structured workflow for preparing veteran disability claims:
+
+Veteran Intake  
+↓  
+Service History Documentation  
+↓  
+Condition & Evidence Tracking  
+↓  
+Service Connection Mapping  
+↓  
+Claim Preparation & Review
 ---
 
 # Screenshots
@@ -61,7 +74,11 @@ The Veteran Profile interface captures structured service history and intake inf
 ![Service Map](screenshots/mission-link-service-map.png)
 
 The Service Connection Map helps visualize connections between service events and claimed conditions.
+## Why This Project Exists
 
+Many veterans struggle with the complexity of the VA disability claims process due to documentation requirements and service connection evidence.
+
+Mission Link was created to explore how structured case management tools could simplify that process by organizing intake information, tracking readiness levels, and improving coordination across teams assisting veterans.
 ## Technology
 
 Mission Link was prototyped using Base44, a rapid development platform used to design workflow-driven applications and operational dashboards.
